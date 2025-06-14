@@ -27,7 +27,7 @@ const projects = [
   },
   {
     name: "Python Based Library management System",
-    year: "May2024",
+    year: "2024",
     align: "left",
     image: "/images/Library.png",
     link: "#",
